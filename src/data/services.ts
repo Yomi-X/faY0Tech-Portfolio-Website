@@ -42,3 +42,9 @@ export const services: Service[] = [
 ];
 
 export default services;
+export type Service = {
+  title: string;
+  description: string;
+};
+
+export const services: Service[] = [];
