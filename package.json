@@ -1,0 +1,9 @@
+{
+  "name": "fay0tech-portfolio-website",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check src/main.js && node --check src/App.js && node --check src/components/Hero.js"
+  }
+}
